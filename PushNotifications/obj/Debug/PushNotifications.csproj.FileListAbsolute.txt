@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe.config
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.pdb
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.exe
+C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\obj\Debug\PushNotifications.pdb

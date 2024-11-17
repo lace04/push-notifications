@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.InstallLog
+   assemblypath = C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe
+Instalando el servicio PushNotifications...
+El servicio PushNotifications se ha instalado correctamente.
+Creando el origen de EventLog PushNotifications en el registro Application...
+Confirmando ensamblado 'C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.InstallLog
+   assemblypath = C:\Users\Administrador\source\repos\PushNotifications\PushNotifications\bin\Debug\PushNotifications.exe
